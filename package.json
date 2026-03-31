@@ -27,7 +27,6 @@
     "figlet": "^1.8.0",
     "fs-extra": "^11.3.4",
     "gradient-string": "^2.0.2",
-    "http": "^8.0.0",
     "https": "^1.0.0",
     "https-proxy-agent": "^7.0.6",
     "jimp": "^1.6.0",
