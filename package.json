@@ -42,7 +42,7 @@
     "nodemon": "^3.1.14",
     "npm": "^11.12.1",
     "npmlog": "^7.0.1",
-    "pastebin-js": "^7.0.0",
+    "pastebin-js": "^1.0.6",
     "prodia.js": "^3.0.0",
     "request": "^8.0.2",
     "semver": "^7.6.3",
