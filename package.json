@@ -8,7 +8,7 @@
     "start": "node .",
     "dev": "nodemon .",
     "test": "echo \"Error: no test specified\" && exit 1"
-  
+  },
   "author": "ayman",
   "license": "GPL-3.0",
   "dependencies": {
@@ -278,4 +278,4 @@
     "yt-search": "^2.13.1",
     "zod": "^4.3.6"
   }
-  }
+}
