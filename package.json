@@ -44,7 +44,7 @@
     "npmlog": "^7.0.1",
     "pastebin-js": "^1.0.6",
     "prodia.js": "^3.0.0",
-    "request": "^8.0.2",
+    "request": "^2.88.2",
     "semver": "^7.6.3",
     "srod-v2": "^1.0.2",
     "string-similarity": "^4.0.4",
